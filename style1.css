@@ -1,0 +1,282 @@
+body{
+    background-color: #E4F9F5;
+    color: #40514E;
+}
+h2{
+    color: #11999E;
+
+}
+.main-box{
+    position: relative;
+    bottom: 180px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 5rem;
+}
+img{
+    float: left;
+    margin: auto 50px 20px 100px;
+}
+.name{
+    clear: left;
+    margin:0px auto 0px 100px;
+    font-size:2rem;
+    font-family: 'Rubik Glitch', sans-serif;
+    background-color: rgb(157, 157, 157);
+    width:fit-content;
+  color: brown;
+}
+.details{
+    position: relative;
+    top:30px; 
+    font-size: 1rem;
+}
+.insta-icon{
+    height: 50px;
+    width: 50px;
+    position:relative;
+    right:100px;
+    top:18px;
+}
+a{
+    text-decoration: none;
+    position: relative;
+    top: 25px;
+    right: 130px;
+}
+.FI{
+    position: relative;
+    right: 100px;
+    top: 10px;
+}
+.EI{
+    position: relative;
+    right: 100px;
+    top: 10px;
+}
+.PL{
+    width: 950px;
+    position: relative;
+    right: 100px;
+    top: 10px;
+}
+.EL{
+    width: 900px;
+    position: relative;
+    right: 100px;
+    top: 10px;
+    left: 0;
+}
+.Ce{
+    width: 800px;
+}
+.d2{
+    margin-top: 0;
+    padding: 100px;
+    padding-top: 50px;
+    
+}
+.insta-id:hover{
+        color: rgb(255, 7, 181);
+}
+.d3{
+    margin-top: 0;
+    padding: 100px;
+    padding-top: 50px;
+    height: 10px;
+    position: relative;
+    bottom: 150px;
+}
+p{
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-box{
+    width: 700px;
+    border-right-width: 7px;
+    border-right-style:outset ;
+    border-right-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 180px;
+}
+.heading{
+       position: relative;
+       left: 300px;
+       top: 100px;
+       color: rgb(255, 111, 0);
+}
+.top{
+position: relative;
+width: 420px;
+bottom: 800px;
+left: 212px;
+height: 2px;
+border-style: none;
+border-bottom-style:solid ;
+}
+.left{
+    position: relative;
+    width: 5px;
+    height: 972px;
+    bottom: 810px;
+    left: 0px;
+    border-style: none;
+    border-right-style:solid ;
+}
+.right{
+    position: relative;
+    width: 5px;
+    height: 972px;
+    bottom: 1800px;
+    left: 700px;
+    border-style: none;
+    border-left-style:solid ;
+}
+.bottom{
+    position: relative;
+    width: 420px;
+    bottom: 820px;
+    left: 488px;
+    height: 2px;  
+    border-style: none;  
+    border-bottom-style:solid ;
+}
+.pull-img{
+    position: relative;
+    right: 100px;
+    top: 10px;
+}
+.s1{
+    position: relative;
+    right: 100px;
+}
+.d4{
+    margin-top:50px;
+}
+.p1{
+    position: relative;
+    right: 100px;
+}
+.p2{
+    position: relative;
+    right: 100px;
+}
+.p3{
+    width: 1000px;
+    font-size: 0.9rem;
+    position: relative;
+    left: 150px;
+}
+.d5{
+    position: relative;
+    bottom: 1180px;
+    margin-top: 0;
+    padding: 100px;
+    padding-top: 50px;
+}
+.roar-img{
+    position: relative;
+    right: 100px;
+    top: 10px;
+}
+.p51{
+    position: relative;
+    right: 100px;
+}
+.award-img{
+    position: absolute;
+    width: 350px;
+    height: 220px;
+    bottom:150px;
+    right: 400px;
+}
+.d6{
+    position: relative;
+    bottom: 1310px;
+    margin-top: 0;
+    padding: 100px;
+    padding-top: 50px;
+}
+.side-box{
+    position: absolute;
+    top: 400px;
+    right: 50px;
+    font-size: 0.85rem;
+}
+.side-img{
+    position: relative;
+    right:40px;
+    bottom:20px;
+    margin-bottom: 0;
+}
+.apl{
+    width: 900px;
+    position: relative;
+    right: 200px;
+}
+.ael{
+    width: 900px;
+    position: relative;
+    right: 200px;
+}
+
+.pi{
+    position: relative;
+    left:1041px;
+    bottom:4980px;
+    font-size: 0.95rem;
+    background-color: antiquewhite;
+    text-align: center;
+    width: 400px;
+}
+.di{
+    position: relative;
+    background-color:antiquewhite;
+    width: 400px;
+    text-align: center;
+}
+.ss1{
+    position: relative;
+    left: 190px;
+}
+.ss2{
+    position: relative;
+    left: 190px;
+}
+.cs{
+    position: relative;
+    background-color:antiquewhite;
+    width: 400px;
+    text-align: center;
+}
+.btn {
+    background: #d93434;
+    background-image: -webkit-linear-gradient(top, #d93434, #c2b331);
+    background-image: -moz-linear-gradient(top, #d93434, #c2b331);
+    background-image: -ms-linear-gradient(top, #d93434, #c2b331);
+    background-image: -o-linear-gradient(top, #d93434, #c2b331);
+    background-image: linear-gradient(to bottom, #d93434, #c2b331);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    left: 500px;
+    top: 50px;
+  }
+  
+  .btn:hover {
+    background: #fcd93c;
+    background-image: -webkit-linear-gradient(top, #fcd93c, #3498db);
+    background-image: -moz-linear-gradient(top, #fcd93c, #3498db);
+    background-image: -ms-linear-gradient(top, #fcd93c, #3498db);
+    background-image: -o-linear-gradient(top, #fcd93c, #3498db);
+    background-image: linear-gradient(to bottom, #fcd93c, #3498db);
+    text-decoration: none;
+  }
